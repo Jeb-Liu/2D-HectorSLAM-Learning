@@ -11,4 +11,5 @@ https://google-cartographer-ros.readthedocs.io/en/latest/data.html#d-cartographe
 今回のプログラムは、水平方向のLIDARの時系列データのみ使用した(.mat)。
 
 
-## 结果对比
+## 実行結果
+
