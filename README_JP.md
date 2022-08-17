@@ -3,4 +3,12 @@
 input：LIDARの水平方向の時系列データ
 output：ローバの経路、point cloud map
 
-## データソース
+## データソース&フォーマット
+データは2D Cartographer Backpack – Deutsches Museum
+https://google-cartographer-ros.readthedocs.io/en/latest/data.html#d-cartographer-backpack-deutsches-museum
+
+データのすべての組成は、水平方向と鉛直方向のLIDARの時系列データ、加速度センサの時系列データ。
+今回のプログラムは、水平方向のLIDARの時系列データのみ使用した(.mat)。
+
+
+## 结果对比
