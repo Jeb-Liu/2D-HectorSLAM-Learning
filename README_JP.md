@@ -10,6 +10,3 @@ https://google-cartographer-ros.readthedocs.io/en/latest/data.html#d-cartographe
 データのすべての組成は、水平方向と鉛直方向のLIDARの時系列データ、加速度センサの時系列データ。
 今回のプログラムは、水平方向のLIDARの時系列データのみ使用した(.mat)。
 
-
-## 実行結果
-
