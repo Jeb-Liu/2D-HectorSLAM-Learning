@@ -8,6 +8,6 @@
 https://google-cartographer-ros.readthedocs.io/en/latest/data.html#d-cartographer-backpack-deutsches-museum
 
 完整的数据包含了激光雷达的水平方向与垂直方向数据，以及加速度计数据
-此例中仅使用了水平方向的激光雷达数据，为文件xxx。
+在此例中，仅使用了水平方向的激光雷达数据，为文件xxx。
 
 ## 结果对比
